@@ -1,2 +1,7 @@
 # stage-1-answers
-Answers to all 4 questions
+This repo contains answers to all four questions.
+
+Programming Language Used is C++.
+IDE used is VSCode.
+
+The files containing answers is under t2021-2-1.
